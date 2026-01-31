@@ -1,5 +1,4 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
-import { Analytics } from "@vercel/analytics/next"
 import { 
   Star, Compass, ScrollText, Sparkles, Zap, 
   ChevronRight, Wind, Flame, Droplets, Mountain,
